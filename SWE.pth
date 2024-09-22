@@ -1,0 +1,2 @@
+import _virtualenv
+print("hello world")
